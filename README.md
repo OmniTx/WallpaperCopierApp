@@ -17,6 +17,20 @@
 2. **Switch Themes**: Use the theme button to toggle between day and night modes. Your preference is remembered even after closing the app.
 3. **Drag and Move**: Click anywhere on the app, including panels, to move the window freely.
 
+## Previews
+
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+
+### Light Theme
+![Light Theme](screenshots/light_theme.png)
+
+### Dark Theme
+![Dark Theme](screenshots/dark_theme.png)
+
+### Save Notification
+![Save Notification](screenshots/save_notification.png)
+
 ## Installation
 
 ### Prerequisites
